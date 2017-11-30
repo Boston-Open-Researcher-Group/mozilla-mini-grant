@@ -15,6 +15,10 @@ A repository to gather materials for the 2017 Mozilla Mini-Grant application.
   
 ## Collaborators   
   
+  + [Kevin Moerman](http://biomech.media.mit.edu/kevin-m-moerman/)
+  + [Will Kearney](http://www.wskearney.com/)
+  + Tom Hohenstein
+  + More to be added... 
   
 ## Letter of Intent 
 The fields listed in the [application guide](https://docs.google.com/document/d/1qPt0NWDIBmZ10F9bsWPGbDeZfy6pl2k177fV4jSoddo/edit#heading=h.tw3u6msy3vnw).
