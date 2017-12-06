@@ -14,7 +14,8 @@ Our challenge as advocates of open research is to reach beyond these enthusiasts
 
 We propose to hold a series of workshops throughout the summer of 2018 (Fig. 1).
 
-![The BORG summer series. Large circles are the larger BORG workshops and small circles are the satellite events.](figure1.png)
+![The BORG summer series. Large circles are the larger BORG workshops and small circles are the satellite events.](/data/borgEventFlow.png)
+_The BORG event flow. Large circles are the larger BORG workshops and small circles are the satellite events._   
 
 The first event will be focused on building the BORG and on identifying challenges to the dissemination of open research. We will invite open research enthusiasts from around the area for a day-long workshop. We will introduce our vision for the BORG, provide a few activities focused on how to spread open research practices within our communities, and participate in a brainstorming session to identify goals and challenges that we face.
 
@@ -24,11 +25,11 @@ The second Boston-wide event will be a check-in with the BORG members. We would 
 
 After the second event, more satellite workshops will be held. These will be otherwise identical to the first round of satellite workshops, but they should be able to incorporate any ideas that were discussed at the second big event.
 
-The third event will be an Open Research Extravaganza at which attendees of the satellite events will be able to present on their experiences getting involved in open research. The focus is on stories about open practices rather than on finished products. 
+The third event will be an Open Research Extravaganza at which attendees of the satellite events will be able to present on their experiences getting involved in open research. The focus is on stories about open practices rather than on finished products.
 
 ## Budget
 
-Out of a $5,000 minigrant, we propose to spend $2000 on the big BORG events, and $3000 on the satellite workshops. These funds will go towards food for the workshops and any room rental or audiovisual needs as well as smaller costs to help the BORG administer all of these events (such as Meetup.com fees). The satellite workshops will ideally take place within institutions that can provide space. 
+Out of a $5,000 minigrant, we propose to spend $2000 on the big BORG events, and $3000 on the satellite workshops. These funds will go towards food for the workshops and any room rental or audiovisual needs as well as smaller costs to help the BORG administer all of these events (such as Meetup.com fees). The satellite workshops will ideally take place within institutions that can provide space.
 
 # Moving forwards
 
