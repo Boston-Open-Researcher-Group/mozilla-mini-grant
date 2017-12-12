@@ -4,17 +4,23 @@ The grant will support the Boston Open Researcher Group to host a series of work
 
 # Introduction
 
-Open research practices are gaining traction across the natural sciences, social sciences and humanities. In our experience, these practices are taken up by a cadre of "open research enthusiasts," people who are already committed to open practice and who have the technical ability to open their research. At the Boston Working Open Workshop, we saw these enthusiasts come together.
+Open research practices are gaining traction across the natural sciences, social sciences and humanities. In our experience, these practices are taken up by a cadre of "open research enthusiasts," people who are already committed to open practice and who have the technical ability to open their research.
 
 While there is a lot we enthusiasts can learn from each other, we would like to see open practices propagate further into our disciplines. Events targeted towards open enthusiasts, like the Working Open Workshops, overlook those who have not yet embraced open research practices as well as those open researchers who aren't connected to the larger open research community. On the other hand, events targeted towards newcomers, like Software and Data Carpentry workshops, don't often provide avenues to engage with the open research community beyond the workshops.
 
-We have founded the Boston Open Researcher Group (the BORG) to address these challenges. 
+We have founded the Boston Open Researcher Group (the BORG) to address these challenges by building a bridge between the established open research community and researchers that are new to open research practices. 
 
-# Goals and assessment
+# Objectives
 
 1. **Connect the community of open research advocates in the greater Boston area.** Success will be assessed by the number of BORG members listed on our website after the first BORG workshop.
 2. **Send these advocates into their own research communities to encourage open research practices.** Success will be assessed in the reports from the advocates at the second BORG workshop.
 3. **Bring newcomers into the Boston open research community.** Success will be assessed by the growth in BORG membership over the summer. 
+
+# Audience
+
+## Enthusiasts
+
+## Newcomers
 
 # Proposed activities
 
@@ -37,7 +43,21 @@ The third and final BORG event will be an Open Research Extravaganza, open to th
 
 Out of a $5,000 minigrant, we propose to spend $3000 on the big BORG events, and $2000 on the satellite workshops. These funds will go towards food for the workshops and any room rental or audiovisual needs as well as smaller costs to help the BORG administer all of these events (such as Meetup.com fees). The satellite workshops will ideally take place within institutions that can provide space, and we anticipate spending around $200 to $250 on each workshop.
 
-# Moving forwards
+# Outputs
+
+Curriculum
+
+Directory
+
+Meetup
+
+GitHub repository
+
+Website
+
+Recordings of presentations (optional)
+
+# Outcomes
 
 These summer events will develop a community of open researchers at various stages in their engagement, from seasoned open research advocates to those making their first forays into open research in the satellite workshops. This community is the BORG. 
 
@@ -50,7 +70,3 @@ Possible directions for the BORG that have been discussed are
 - A Boston-area open research mentorship program modeled on the Open Leadership Cohort
 
 We want the BORG to be a sustainable community. A key component of that sustainability is partnerships with area institutions like universities, libraries and companies. The momentum from the summer's activities, supported by the Mozilla Science Lab mini-grant, will help us to make the argument for those partnerships.
-
-
-
-
