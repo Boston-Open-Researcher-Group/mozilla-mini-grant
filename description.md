@@ -1,3 +1,7 @@
+# One sentence description
+
+The grant will support the Boston Open Researcher Group to host a series of workshops that will leverage the disciplinary networks of open research enthusiasts to bring their colleagues into the open research community.
+
 # Introduction
 
 Open research practices are gaining traction across the natural sciences, social sciences and humanities. In our experience, these practices are taken up by a cadre of "open research enthusiasts," people who are already committed to open practice and who have the technical ability to open their research. At the Boston Working Open Workshop, we saw these enthusiasts come together.
